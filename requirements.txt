@@ -16,10 +16,10 @@ pyrogram==1.4.16
 python-dotenv
 pyyaml
 requests
-speedtest-cli
+git+https://github.com/VivekCoderOp/oktest
 spotipy
-tgcrypto
+git+https://github.com/VivekCoderOp/nober
 numpy
-yt-dlp
-youtube-search
-youtube-search-python
+git+https://github.com/VivekCoderOp/youtuber
+git+https://github.com/VivekCoderOp/newsearch
+git+https://github.com/VivekCoderOp/noyyyg
