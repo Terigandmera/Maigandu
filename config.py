@@ -10,7 +10,7 @@ load_dotenv()
 API_ID = int(getenv("API_ID", "25244509"))
 API_HASH = getenv("API_HASH", "7c2e1c76ea6fb87e69bf5364d3156074")
 
-BOT_TOKEN = getenv("BOT_TOKEN", "")
+BOT_TOKEN = getenv("BOT_TOKEN", "5928733679:AAFuD6nYQ4VmGJbrzVU91g9oDWVAtiHZG0M")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://viveknew:viveknew@viveknew.k7m1kfu.mongodb.net/?retryWrites=true&w=majority")
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001246079685"))
